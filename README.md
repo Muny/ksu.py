@@ -1,6 +1,9 @@
 # ksu.py
 `ksu.py` is a python command line tool & library for controlling USB-connected KSU-1 power supplies.
 
+> [!TIP]
+> A code-free way to control the power supply is available at: https://muny.us/ksu/. Only browsers with access to the WebSerial or WebUSB APIs are supported (Chrome, Edge, Opera, and some Android devices with Chrome for Android)
+
 ## Command Line
 
 ### Usage
